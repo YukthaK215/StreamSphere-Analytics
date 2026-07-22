@@ -346,7 +346,7 @@ This project strengthened my understanding of:
 ### Connect with me
 
 - GitHub: https://github.com/YukthaK215
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/yuktha-k
 
 ---
 
