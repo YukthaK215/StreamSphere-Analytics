@@ -26,17 +26,17 @@ The dashboard enables businesses to monitor product performance, analyze user en
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Dashboard
 
-🚀 **Coming Soon**
+<p align="center">
 
-After deployment, replace this with your Streamlit Cloud URL.
+### 🚀 Try StreamSphere Analytics Live
 
-```
-https://your-app-name.streamlit.app
-```
+**🔗 https://streamsphere-analytics-8sszywlgygewsnpo8zy74d.streamlit.app/**
 
----
+*Interactive Product Analytics Dashboard built with Python, Streamlit, PostgreSQL, Pandas, and Plotly.*
+
+</p>
 
 # 📸 Dashboard Preview
 
